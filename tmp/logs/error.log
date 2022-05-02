@@ -8,3 +8,17 @@
 
 [Friday 29th of April 2022 12:16:08 PM] Ошибка: Метод app\controllers\admin\MainController::indexAction не найден | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 35
 
+[Monday 2nd of May 2022 11:01:50 PM] Ошибка: Страница не найдена | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 42
+
+[Monday 2nd of May 2022 11:02:01 PM] Ошибка: Страница не найдена | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 42
+
+[Monday 2nd of May 2022 11:02:16 PM] Ошибка: Контроллер app\controllers\PageController не найден | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 39
+
+[Monday 2nd of May 2022 11:14:32 PM] Ошибка: Контроллер app\controllers\PageController не найден | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 48
+
+[Monday 2nd of May 2022 11:14:48 PM] Ошибка: Страница не найдена | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 51
+
+[Monday 2nd of May 2022 11:17:42 PM] Ошибка: Страница не найдена | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 54
+
+[Monday 2nd of May 2022 11:17:54 PM] Ошибка: Контроллер app\controllers\PageController не найден | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 51
+
