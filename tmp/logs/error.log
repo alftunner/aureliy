@@ -22,3 +22,13 @@
 
 [Monday 2nd of May 2022 11:17:54 PM] Ошибка: Контроллер app\controllers\PageController не найден | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 51
 
+[Monday 9th of May 2022 02:05:15 PM] Ошибка: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\Router.php | Строка: 79
+
+[Monday 9th of May 2022 02:33:38 PM] Ошибка: preg_replace(): Delimiter must not be alphanumeric or backslash | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\View.php | Строка: 25
+
+[Monday 9th of May 2022 02:34:09 PM] Ошибка: preg_replace(): Delimiter must not be alphanumeric or backslash | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\View.php | Строка: 25
+
+[Monday 9th of May 2022 02:34:30 PM] Ошибка: Не найден вид D:\Server8\OpenServer\domains\aureliy/app/views/Main/index.php | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\View.php | Строка: 30
+
+[Monday 9th of May 2022 02:47:59 PM] Ошибка: Не найден шаблон D:\Server8\OpenServer\domains\aureliy/app/views/layouts/aureliy.php | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\View.php | Строка: 40
+
