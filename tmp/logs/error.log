@@ -32,3 +32,5 @@
 
 [Monday 9th of May 2022 02:47:59 PM] Ошибка: Не найден шаблон D:\Server8\OpenServer\domains\aureliy/app/views/layouts/aureliy.php | Файл: D:\Server8\OpenServer\domains\aureliy\vendor\core\View.php | Строка: 40
 
+[Sunday 29th of May 2022 01:42:15 PM] Ошибка: Undefined variable $test | Файл: D:\Server8\OpenServer\domains\aureliy\app\views\Main\index.php | Строка: 3
+
